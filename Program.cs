@@ -31,6 +31,8 @@ namespace Tydzień_4_lekcja_11_praca_domowa1
 
                     Console.WriteLine("Podana liczba jest liczbą nieparzystą.");
 
+
+
                 Console.WriteLine("Czy chcesz sprawdzić kolejną liczbę? (t/n)");
                 string response = Console.ReadLine();
                 if (response.ToLower() != "t")
