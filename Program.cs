@@ -17,6 +17,8 @@ namespace Tydzień_4_lekcja_11_praca_domowa1
                 while (!int.TryParse(Console.ReadLine(), out number))
                 {
                     Console.WriteLine("Nieprawidłowa liczba. Spróbuj ponownie.");
+
+
                 }
 
 
